@@ -24,5 +24,5 @@
    [TODO]
    
    ATTENTION
-   Just for learning and test for now!
+   Just for learning and testing for now!
    NO WARRANTY for ANY deployment!
