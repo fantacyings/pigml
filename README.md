@@ -22,3 +22,7 @@
 4) How to contribute?
 
    [TODO]
+   
+   ATTENTION
+   Just for learning and test for now!
+   NO WARRANTY for ANY deployment!
